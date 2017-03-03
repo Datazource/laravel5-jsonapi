@@ -9,6 +9,7 @@
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://paypal.me/nilportugues)
 
 *Compatible with Laravel 5.0, 5.1 & 5.2*
+*5.4 is WIP*
 
 - Package provides a full implementation of the **[JSON API](https://github.com/json-api/json-api)** specification, and is **featured** on the official site!
 - A **JSON API Transformer** that will allow you to convert any mapped object into a valid JSON API resource.
